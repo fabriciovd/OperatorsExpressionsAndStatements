@@ -1,0 +1,5 @@
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\05.CheckGivenIntAndFindThirr\bin\Debug\05.CheckGivenIntAndFindThirr.exe
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\05.CheckGivenIntAndFindThirr\bin\Debug\05.CheckGivenIntAndFindThirr.pdb
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\05.CheckGivenIntAndFindThirr\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\05.CheckGivenIntAndFindThirr\obj\x86\Debug\05.CheckGivenIntAndFindThirr.exe
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\05.CheckGivenIntAndFindThirr\obj\x86\Debug\05.CheckGivenIntAndFindThirr.pdb

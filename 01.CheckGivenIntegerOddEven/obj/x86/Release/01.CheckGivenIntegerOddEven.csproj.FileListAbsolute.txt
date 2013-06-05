@@ -1,0 +1,7 @@
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\01.CheckGivenIntegerOddEven\bin\Release\01.CheckGivenIntegerOddEven.exe
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\01.CheckGivenIntegerOddEven\bin\Release\01.CheckGivenIntegerOddEven.pdb
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\01.CheckGivenIntegerOddEven\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\01.CheckGivenIntegerOddEven\obj\x86\Release\01.CheckGivenIntegerOddEven.exe
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\01.CheckGivenIntegerOddEven\obj\x86\Release\01.CheckGivenIntegerOddEven.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\01.CheckGivenIntegerOddEven\obj\x86\Release\01.CheckGivenIntegerOddEven.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\01.CheckGivenIntegerOddEven\obj\x86\Release\01.CheckGivenIntegerOddEven.pdb

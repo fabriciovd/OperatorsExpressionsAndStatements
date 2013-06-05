@@ -1,4 +1,0 @@
-OperatorsExpressionsAndStatements
-=================================
-
-Lecture 3

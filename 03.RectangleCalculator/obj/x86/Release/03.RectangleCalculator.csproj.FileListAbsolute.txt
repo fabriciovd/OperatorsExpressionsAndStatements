@@ -1,0 +1,5 @@
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\03.RectangleCalculator\bin\Release\03.RectangleCalculator.exe
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\03.RectangleCalculator\bin\Release\03.RectangleCalculator.pdb
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\03.RectangleCalculator\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\03.RectangleCalculator\obj\x86\Release\03.RectangleCalculator.exe
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\03.RectangleCalculator\obj\x86\Release\03.RectangleCalculator.pdb

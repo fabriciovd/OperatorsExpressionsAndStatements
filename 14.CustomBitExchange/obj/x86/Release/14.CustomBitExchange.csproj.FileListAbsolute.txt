@@ -1,0 +1,9 @@
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\14.CustomBitExchange\bin\Release\14.CustomBitExchange.exe
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\14.CustomBitExchange\bin\Release\14.CustomBitExchange.pdb
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\14.CustomBitExchange\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\14.CustomBitExchange\obj\x86\Release\14.CustomBitExchange.exe
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\14.CustomBitExchange\obj\x86\Release\14.CustomBitExchange.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\14.CustomBitExchange\obj\x86\Release\14.CustomBitExchange.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\14.CustomBitExchange\obj\x86\Release\14.CustomBitExchange.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\14.CustomBitExchange\bin\Release\14.CustomBitExchange.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\14.CustomBitExchange\bin\Release\14.CustomBitExchange.pdb

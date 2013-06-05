@@ -1,0 +1,5 @@
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\09.CheckPointXYInCircleOutOfRectangle\bin\Release\09.CheckPointXYInCircleOutOfRectangle.exe
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\09.CheckPointXYInCircleOutOfRectangle\bin\Release\09.CheckPointXYInCircleOutOfRectangle.pdb
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\09.CheckPointXYInCircleOutOfRectangle\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\09.CheckPointXYInCircleOutOfRectangle\obj\x86\Release\09.CheckPointXYInCircleOutOfRectangle.exe
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\09.CheckPointXYInCircleOutOfRectangle\obj\x86\Release\09.CheckPointXYInCircleOutOfRectangle.pdb

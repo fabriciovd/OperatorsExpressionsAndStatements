@@ -1,0 +1,5 @@
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\11.ExtractABitFromGivenInt\bin\Release\11.ExtractABitFromGivenInt.exe
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\11.ExtractABitFromGivenInt\bin\Release\11.ExtractABitFromGivenInt.pdb
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\11.ExtractABitFromGivenInt\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\11.ExtractABitFromGivenInt\obj\x86\Release\11.ExtractABitFromGivenInt.exe
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\11.ExtractABitFromGivenInt\obj\x86\Release\11.ExtractABitFromGivenInt.pdb

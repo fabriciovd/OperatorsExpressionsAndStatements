@@ -1,0 +1,5 @@
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\07.CheckIfItIsPrimeApp\bin\Release\07.CheckIfItIsPrimeApp.exe
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\07.CheckIfItIsPrimeApp\bin\Release\07.CheckIfItIsPrimeApp.pdb
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\07.CheckIfItIsPrimeApp\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\07.CheckIfItIsPrimeApp\obj\x86\Release\07.CheckIfItIsPrimeApp.exe
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\07.CheckIfItIsPrimeApp\obj\x86\Release\07.CheckIfItIsPrimeApp.pdb

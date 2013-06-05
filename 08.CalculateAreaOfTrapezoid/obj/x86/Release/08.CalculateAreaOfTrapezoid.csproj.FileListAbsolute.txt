@@ -1,0 +1,5 @@
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\08.CalculateAreaOfTrapezoid\bin\Release\08.CalculateAreaOfTrapezoid.exe
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\08.CalculateAreaOfTrapezoid\bin\Release\08.CalculateAreaOfTrapezoid.pdb
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\08.CalculateAreaOfTrapezoid\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\08.CalculateAreaOfTrapezoid\obj\x86\Release\08.CalculateAreaOfTrapezoid.exe
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\08.CalculateAreaOfTrapezoid\obj\x86\Release\08.CalculateAreaOfTrapezoid.pdb

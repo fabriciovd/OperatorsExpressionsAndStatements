@@ -1,0 +1,5 @@
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\10.CheckABitInInt-If-isOne\bin\Release\10.CheckABitInInt-If-isOne.exe
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\10.CheckABitInInt-If-isOne\bin\Release\10.CheckABitInInt-If-isOne.pdb
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\10.CheckABitInInt-If-isOne\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\10.CheckABitInInt-If-isOne\obj\x86\Release\10.CheckABitInInt-If-isOne.exe
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\10.CheckABitInInt-If-isOne\obj\x86\Release\10.CheckABitInInt-If-isOne.pdb

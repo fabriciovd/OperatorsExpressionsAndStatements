@@ -1,0 +1,10 @@
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\14.CustomBitExchange\bin\Debug\14.CustomBitExchange.exe
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\14.CustomBitExchange\bin\Debug\14.CustomBitExchange.pdb
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\14.CustomBitExchange\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\14.CustomBitExchange\obj\x86\Debug\14.CustomBitExchange.exe
+C:\Users\Asus\documents\visual studio 2010\Projects\OperatorsExpressionsAndStatements\14.CustomBitExchange\obj\x86\Debug\14.CustomBitExchange.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\14.CustomBitExchange\obj\x86\Debug\14.CustomBitExchange.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\14.CustomBitExchange\obj\x86\Debug\14.CustomBitExchange.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\14.CustomBitExchange\bin\Debug\14.CustomBitExchange.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\14.CustomBitExchange\bin\Debug\14.CustomBitExchange.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\14.CustomBitExchange\obj\x86\Debug\14.CustomBitExchange.csprojResolveAssemblyReference.cache
